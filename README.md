@@ -1,1 +1,1 @@
-# cool-stuffs
+# cool-stuff
